@@ -7,4 +7,5 @@ package com.bytedance.android.lesson.restapi.solution.bean;
 public class Feed {
 
     // TODO-C2 (1) Implement your Feed Bean here according to the response json
+    
 }
